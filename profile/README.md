@@ -10,7 +10,7 @@ AstraRocketSim is the home of an open source rocketry simulator that runs entire
 
 | Repository | What it is |
 | --- | --- |
-| **[AstraRocketSim](https://github.com/AstraRocket/simulator)** | The simulator: the web app plus the OpenRocket engine build it runs on. |
+| **[AstraRocket Simulator](https://github.com/AstraRocket/simulator)** | The simulator: the web app plus the OpenRocket engine build it runs on. |
 
 The app is a lightweight, mobile friendly interface over the OpenRocket core, not a re-creation of the desktop program. It reads and writes OpenRocket `.ork` files at full fidelity, imports and exports RockSim `.rkt`, and exports design reports, 3D models, cut sheets, flight data, and flight paths.
 
