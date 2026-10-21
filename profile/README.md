@@ -1,8 +1,8 @@
-# AstraRocketSim
+# AstraRocket
 
 **Model rocket design and flight simulation, in the browser, on real OpenRocket physics.**
 
-AstraRocketSim is the home of an open source rocketry simulator that runs entirely on your device. Design a rocket, watch its center of gravity, center of pressure, and stability update as you edit, pick a real motor, and fly a full simulation. Nothing to install, nothing uploaded, and it keeps working offline once loaded.
+AstraRocket is the home of an open source rocketry simulator that runs entirely on your device. Design a rocket, watch its center of gravity, center of pressure, and stability update as you edit, pick a real motor, and fly a full simulation. Nothing to install, nothing uploaded, and it keeps working offline once loaded.
 
 **[Launch the app](https://AstraRocket.github.io/simulator/)** · **[Documentation](https://AstraRocket.github.io/simulator/docs/)** · **[Safety](https://AstraRocket.github.io/simulator/docs/safety)**
 
@@ -38,11 +38,11 @@ The app is a lightweight, mobile friendly interface over the OpenRocket core, no
 
 Use it: open the **[app](https://AstraRocket.github.io/simulator/)**. It is the current release build, deployed to GitHub Pages.
 
-To run it locally or build from source, see the **[AstraRocketSim README](https://github.com/AstraRocket/simulator#readme)**.
+To run it locally or build from source, see the **[AstraRocket README](https://github.com/AstraRocket/simulator#readme)**.
 
 ## Contributing
 
-Code, bug reports, feature ideas, translations, and documentation are all welcome. See the **[AstraRocketSim CONTRIBUTING.md](https://github.com/AstraRocket/simulator/blob/master/CONTRIBUTING.md)** for how to get involved.
+Code, bug reports, feature ideas, translations, and documentation are all welcome. See the **[AstraRocket CONTRIBUTING.md](https://github.com/AstraRocket/simulator/blob/master/CONTRIBUTING.md)** for how to get involved.
 
 Everyone participating in this organization is expected to follow the **[Code of Conduct](https://github.com/AstraRocket/simulator/blob/master/CODE_OF_CONDUCT.md)**.
 
@@ -52,7 +52,7 @@ All projects in this organization are released under the **GNU General Public Li
 
 The simulation engine derives from the [OpenRocket](https://openrocket.info/) core. The opt-in RASAero supersonic aerodynamics extensions are the original work of the mmrocket-sim project. Full credits and license lineage are in the individual repositories.
 
-AstraRocketSim is an independent project and is not affiliated with or endorsed by the OpenRocket project, the National Association of Rocketry, or the Tripoli Rocketry Association.
+AstraRocket is an independent project and is not affiliated with or endorsed by the OpenRocket project, the National Association of Rocketry, or the Tripoli Rocketry Association.
 
 ## Safety and disclaimer
 
@@ -60,4 +60,4 @@ A simulation is a model, and a model is only as good as what it knows. Before yo
 
 This software is provided "as is", without warranty of any kind, express or implied, including any warranty of accuracy, merchantability, or fitness for a particular purpose. Simulation results are estimates. They are not a substitute for the applicable safety code, a range safety officer, an airspace waiver, or your own judgment.
 
-**You, and you alone, are responsible for any rocket you build, any motor you use, and any flight you make.** Neither AstraRocketSim, its contributors, nor the authors of the software it derives from accept any liability for injury, death, property damage, regulatory violations, or any other loss arising from use of this software or reliance on its output, to the fullest extent permitted by law. By using the software you accept this.
+**You, and you alone, are responsible for any rocket you build, any motor you use, and any flight you make.** Neither AstraRocket, its contributors, nor the authors of the software it derives from accept any liability for injury, death, property damage, regulatory violations, or any other loss arising from use of this software or reliance on its output, to the fullest extent permitted by law. By using the software you accept this.
